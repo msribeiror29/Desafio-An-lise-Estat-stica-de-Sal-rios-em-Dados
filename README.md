@@ -8,7 +8,7 @@ The dataset contains salary data for data professionals from various parts of th
 
 Available columns include:
 
-#<img width="537" height="362" alt="download" src="https://github.com/user-attachments/assets/dc364ac3-e9a4-476a-96f0-fbe772ad5e68" />
+<img width="537" height="362" alt="download" src="https://github.com/user-attachments/assets/dc364ac3-e9a4-476a-96f0-fbe772ad5e68" />
 
 Category Legend
 Experience_level
